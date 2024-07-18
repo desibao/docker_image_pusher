@@ -1,2 +1,3 @@
-alpine:3.19.1
-nginx:latest
+rabbitmq:3.12.14-management
+bitnami/kafka:3.3.2
+mongo:7.0.12
