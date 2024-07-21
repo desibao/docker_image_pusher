@@ -4,3 +4,13 @@ mongo:7.0.12
 jenkins/jenkins:2.346.1-centos7-jdk8
 jenkins/jenkins:2.467-jdk17
 zookeeper:3.7.2
+nacos/nacos-server:v2.2.0-slim
+seataio/seata-server:2.0.0
+elasticsearch:7.17.5
+kibana:7.17.5
+canal/canal-server:v1.1.6
+apache/rocketmq:4.9.4
+redis:6.2
+minio/minio:RELEASE.2021-06-17T00-10-46Z
+mysql:8.0.38
+apacherocketmq/rocketmq-dashboard:1.0.0
