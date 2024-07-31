@@ -1,2 +1,2 @@
-hb0730/alibaba-sentinel:1.8.2
-portainer/portainer:latest
+seataio/seata-server:1.7.1
+seataio/seata-server:1.6.1
