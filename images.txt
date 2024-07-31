@@ -1,7 +1,2 @@
-elasticsearch:7.9.0
-elasticsearch:7.12.0
-apache/skywalking-oap-server:8.1.0-es7
-apache/skywalking-oap-server:8.7.0-es7
-apache/skywalking-ui:8.1.0
-apache/skywalking-ui:8.7.0
-openjdk:8-alpine3.9
+hb0730/alibaba-sentinel:1.8.2
+portainer/portainer:latest
