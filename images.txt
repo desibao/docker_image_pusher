@@ -1,2 +1,2 @@
-seataio/seata-server:1.7.1
-seataio/seata-server:1.6.1
+emqx/mqttx-cli
+emqx/mqttx-web
