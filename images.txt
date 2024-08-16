@@ -1,3 +1,6 @@
-nacos-server:v2.3.2
-nacos-server:v2.1.2
-nacos-server:v2.0.4
+nacos/nacos-server:v2.4.0
+nacos/nacos-server:v2.3.2
+nacos/nacos-server:v1.4.8
+nacos/nacos-server:v2.2.3
+nacos/nacos-server:v2.1.2
+nacos/nacos-server:v2.0.4
