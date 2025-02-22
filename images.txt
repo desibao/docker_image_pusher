@@ -1,1 +1,2 @@
-minio/minio:RELEASE.2023-01-31T02-24-19Z
+apache/activemq-classic:5.17.6
+apache/activemq-classic:5.18.6
