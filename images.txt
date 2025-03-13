@@ -1,2 +1,1 @@
-apache/activemq-classic:5.17.6
-apache/activemq-classic:5.18.6
+anapsix/alpine-java:8_server-jre_unlimited
