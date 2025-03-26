@@ -1,1 +1,2 @@
-anapsix/alpine-java:8_server-jre_unlimited
+apache/rocketmq:5.0.0
+redis:5.0.14
