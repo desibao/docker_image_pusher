@@ -1,1 +1,2 @@
-fauria/vsftpd:latest
+php:5.6-zts-alpine
+php:7.4.33-zts-alpine
